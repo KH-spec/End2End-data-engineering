@@ -1,5 +1,6 @@
-Realtime Data Streaming | End-to-End Data Engineering Project
-Table of Contents
+#Realtime Data Streaming | End-to-End Data Engineering Project
+
+<h1>Table of Contents <h2>
 Introduction
 System Architecture
 What You'll Learn
